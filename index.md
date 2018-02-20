@@ -1,4 +1,4 @@
- _Discovery is the privilege of the child: the child who has no fear of being once again wrong, of looking like an idiot, of not being serious, of not doing things like everyone else_ -- **Alexander Grothendieck**
+ _Discovery is the privilege of the child: the child who has no fear of being once again wrong, of looking like an idiot, of not being serious, of not doing things like everyone else_ - **Alexander Grothendieck**
 
 # [](#header-1)Current
 *   Jan 2018 to Present  : Machine Learning Scientist at Core ML Amazon.
@@ -18,10 +18,10 @@
 *   Aug 2014 to Dec 2014 --- Teaching Assistant for Linear Algebra. 
 *   Oct 2011 to Jul 2013 --- Assistant System Engineer at Tata Consultancy Services, Chennai.
 
-# [](#header-2)Publications
+# [](#header-4)Publications
 
 *   Non-negative Matrix Factorization under Heavy Noise: (ICML 2016) With Ravi Kannan, Chiranjib Bhattacharyya and Navin Goyal. [Paper](http://proceedings.mlr.press/v48/bhattacharya16.pdf), [Code](https://github.com/jagdeeppani/TSVDNMF)
 
-## [](#header-4)Technical Skills
+## [](#header-5)Technical Skills
 *   Languages: C, C++, Python, Apache Pig.
 *   Tools: Matlab, LATEX.
