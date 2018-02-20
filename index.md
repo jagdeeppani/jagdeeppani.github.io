@@ -6,12 +6,12 @@
 
 # [](#header-2)Education
 
-- July 2013 to August 2015 :  Msc. Engg in Computer Science at Indian Institute of Science, Bangalore, India 
+- July 2013 to August 2015 :  Masters (Research) in Computer Science at Indian Institute of Science, Bangalore, India 
   - Major: Machine Learning
   - Research Area: “Non-negative Matrix Factorization” 
   - Advisor: Prof. Chiranjib Bhattacharyya
     
-- July2007 to June2011 :  Undergraduate Degree in Computer Science and Enginnering at Orissa Engineering College, Bhubaneswar, India
+- July2007 to June2011 :  B.Tech (undergraduate degree) in Computer Science and Enginnering at Orissa Engineering College, Bhubaneswar, India
 
 # [](#header-3)Work Experience
 *   Jan 2015 to Apr 2015 --- Teaching Assistant for Foundations of Data science.
