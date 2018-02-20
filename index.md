@@ -1,128 +1,27 @@
----
-layout: default
----
+ _Discovery is the privilege of the child: the child who has no fear of being once again wrong, of looking like an idiot, of not being serious, of not doing things like everyone else_ -- **Alexander Grothendieck**
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# [](#header-1)Current
+*   Jan 2018 to Present  : Machine Learning Scientist at Core ML Amazon.
+*   Aug 2015 to Dec 2017 : Research Engineer at Core ML Amazon.
 
+## [](#header-2)Education
 
-[Link to another page](another-page).
+- July 2013 to August 2015 :  Msc. Engg in Computer Science at Indian Institute of Science, Bangalore, India 
+  - Major: Machine Learning
+  - Research Area: “Non-negative Matrix Factorization” 
+  - Advisor: Prof. Chiranjib Bhattacharyya
+    
+- July2007 to June2011 :  Undergraduate Degree in Computer Science and Enginnering at Orissa Engineering College, Bhubaneswar, India
 
-There should be whitespace between paragraphs.
+## [](#header-3)Work Experience
+*   Jan 2015 to Apr 2015 --- Teaching Assistant for Foundations of Data science.
+*   Aug 2014 to Dec 2014 --- Teaching Assistant for Linear Algebra. 
+*   Oct 2011 to Jul 2013 --- Assistant System Engineer at Tata Consultancy Services, Chennai.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# [](#header-2)Publications
 
-# [](#header-1)Publications
+*   Non-negative Matrix Factorization under Heavy Noise: (ICML 2016) With Ravi Kannan, Chiranjib Bhattacharyya and Navin Goyal. [Paper](http://proceedings.mlr.press/v48/bhattacharya16.pdf), [Code](https://github.com/jagdeeppani/TSVDNMF)
 
-1. Non-negative Matrix Factorization under Heavy Noise: (ICML 2016) With Ravi Kannan, Chiranjib Bhattacharyya and Navin Goyal. (Paper, Code)
-
-
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## [](#header-4)Technical Skills
+*   Languages: C, C++, Python, Apache Pig.
+*   Tools: Matlab, LATEX.
