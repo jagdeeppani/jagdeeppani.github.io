@@ -1,5 +1,14 @@
  _Discovery is the privilege of the child: the child who has no fear of being once again wrong, of looking like an idiot, of not being serious, of not doing things like everyone else_ - **Alexander Grothendieck**
 
+Hi, I am Jagdeep. I came from a beautiful town named Balasore in Odisha, India. I work as a Machine Learning Scientist at the India Machine Learning team (headed by Dr. Rajeev Rastogi) at Amazon. In my previous incarnations I was a Masters (Research) student at Indian Institute of Science, Bangalore where I was fortunate to be advised by Prof Chiranjib Bhattacharyya. At IISc, I also got opportunity to collaborate with Prof Ravi Kannan and Dr Navin Goyal while working on developing provable algorithms for Non-negative matrix factorization.
+
+In my free time, I like to watch movies about real/fiction personalities. Some of my favorite movies include To Kill a mocking Bird, Forrest Gump, Bicycle Thieves, Life is Beautiful, The Guide etc. I also try to write critical reviews about movies. 
+I like to read short stories e.g. Malgudi days by R. K. Narayan, Rebati by Fakir Mohan Senapati etc. 
+Contact me to say "Hi" or to work at Amazon on ML space, Engineer/Scientist (Yes, we are hiring! ). Best way to contact me is by sending a mail to pani.jagdeep<at>gmail.com or pjagdeep<at>amazon.com. I can also be reached via LinkedIn. 
+
+I love to travel to scenic beauties.
+
+
 # [](#header-1)Current
 *   Jan 2018 to Present  : Machine Learning Scientist at Core ML Amazon.
 
