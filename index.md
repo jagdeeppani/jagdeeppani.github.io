@@ -3,7 +3,7 @@
 ## [](#header-1)Introduction
 Hi, I am Jagdeep. I came from a beautiful town named Balasore in Odisha, India. I work as a Machine Learning Scientist at the India Machine Learning team (headed by Dr. Rajeev Rastogi) at Amazon. 
 
-In my previous incarnations I was a Masters (Research) student at Indian Institute of Science, Bangalore where I was fortunate to be advised by Prof Chiranjib Bhattacharyya. At IISc, I got opportunity to collaborate with Prof [Ravi Kannan](https://en.wikipedia.org/wiki/Ravindran_Kannan) and Dr [Navin Goyal](https://www.microsoft.com/en-us/research/people/navingo/) while working on developing provable algorithms for Non-negative matrix factorization.
+In my previous incarnations I was a Masters (Research) student at Indian Institute of Science, Bangalore where I was fortunate to be advised by [Prof Chiranjib Bhattacharyya](http://drona.csa.iisc.ernet.in/%7Echiru/). At IISc, I got opportunity to collaborate with [Prof Ravi Kannan](https://en.wikipedia.org/wiki/Ravindran_Kannan) and [Dr Navin Goyal](https://www.microsoft.com/en-us/research/people/navingo/) while working on developing provable algorithms for Non-negative matrix factorization.
 
 In my free time, I like to watch movies about real/fiction personalities. Some of my favorite movies include To Kill a mocking Bird, Forrest Gump, Bicycle Thieves, Life is Beautiful, The Guide etc. I also try to write critical reviews about movies. 
 I like to read short stories e.g. Malgudi days by R. K. Narayan, Rebati by Fakir Mohan Senapati etc. I love to travel to scenic beauties.
