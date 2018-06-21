@@ -44,4 +44,4 @@ Contact me to say "Hi" or to work at Amazon on ML space, Engineer/Scientist (Yes
 
 ## [](#header-5)Interests
 *   Reading short stories ,e.g., Malgudi days. 
-![Sydney](https://jagdeeppani.github.io/DSC_0735.JPG "Me at Sydney")
+![Bondi Sydney](https://jagdeeppani.github.io/DSC_0735.JPG "Me at Sydney")
