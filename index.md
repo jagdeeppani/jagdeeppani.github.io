@@ -1,4 +1,4 @@
-![Branching](https://github.com/jagdeeppani/jagdeeppani.github.io/blob/master/iiscPic2.jpg)
+![IISCPIC2](https://jagdeeppani.github.io/iiscPic2.jpg)
  _Discovery is the privilege of the child: the child who has no fear of being once again wrong, of looking like an idiot, of not being serious, of not doing things like everyone else_ - **Alexander Grothendieck**
 
 ## [](#header-1)Introduction
@@ -11,7 +11,7 @@ I like to read short stories e.g. Malgudi days by R. K. Narayan, Rebati by Fakir
 
 Contact me to say "Hi" or to work at Amazon on ML space, Engineer/Scientist (Yes, we are hiring! ). Best way to contact me is by sending a mail to pani.jagdeep at gmail.com or pjagdeep at amazon.com. I can also be reached via [LinkedIn](https://in.linkedin.com/in/jagdeep-pani-b3941a92). 
 
-![alt text](https://github.com/jagdeeppani/jagdeeppani.github.io/blob/master/iiscPic1.jpg "IISC PICTURE 1")
+![IISCPIC1](https://jagdeeppani.github.io/iiscPic1.jpg "IISC PICTURE 1")
 
 
 ## [](#header-1)Current
@@ -44,4 +44,4 @@ Contact me to say "Hi" or to work at Amazon on ML space, Engineer/Scientist (Yes
 
 ## [](#header-5)Interests
 *   Reading short stories ,e.g., Malgudi days. 
-![alt text](https://github.com/jagdeeppani/jagdeeppani.github.io/blob/master/DSC_0735.JPG "Me at Sydney")
+![Sydney](https://jagdeeppani.github.io/DSC_0735.JPG "Me at Sydney")
