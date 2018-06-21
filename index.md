@@ -1,3 +1,4 @@
+![alt text](https://github.com/jagdeeppani/jagdeeppani.github.io/blob/master/iiscPic2.jpg "IISC PICTURE 2") 
  _Discovery is the privilege of the child: the child who has no fear of being once again wrong, of looking like an idiot, of not being serious, of not doing things like everyone else_ - **Alexander Grothendieck**
 
 ## [](#header-1)Introduction
@@ -43,3 +44,4 @@ Contact me to say "Hi" or to work at Amazon on ML space, Engineer/Scientist (Yes
 
 ## [](#header-5)Interests
 *   Reading short stories ,e.g., Malgudi days. 
+![alt text](https://github.com/jagdeeppani/jagdeeppani.github.io/blob/master/iiscPic1.jpg "IISC PICTURE 1")
