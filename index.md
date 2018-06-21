@@ -1,3 +1,5 @@
+```![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)```
+![Branching](https://github.com/jagdeeppani/jagdeeppani.github.io/blob/master/iiscPic2.jpg)
 ![alt text](https://github.com/jagdeeppani/jagdeeppani.github.io/blob/master/iiscPic2.jpg "IISC PICTURE 2") 
  _Discovery is the privilege of the child: the child who has no fear of being once again wrong, of looking like an idiot, of not being serious, of not doing things like everyone else_ - **Alexander Grothendieck**
 
