@@ -8,8 +8,9 @@ In my previous incarnations I was a Masters (Research) student at Indian Institu
 In my free time, I like to watch movies about real/fiction personalities. Some of my favorite movies include To Kill a mocking Bird, Forrest Gump, Bicycle Thieves, Life is Beautiful, The Guide etc. I also try to write critical reviews about movies. 
 I like to read short stories e.g. Malgudi days by R. K. Narayan, Rebati by Fakir Mohan Senapati etc. I love to travel to scenic beauties.
 
-Contact me to say "Hi" or to work at Amazon on ML space, Engineer/Scientist (Yes, we are hiring! ). Best way to contact me is by sending a mail to pani.jagdeep<at>gmail.com or pjagdeep<at>amazon.com. I can also be reached via LinkedIn. 
+Contact me to say "Hi" or to work at Amazon on ML space, Engineer/Scientist (Yes, we are hiring! ). Best way to contact me is by sending a mail to pani.jagdeep at gmail.com or pjagdeep at amazon.com. I can also be reached via [LinkedIn](https://in.linkedin.com/in/jagdeep-pani-b3941a92). 
 
+![alt text](https://github.com/jagdeeppani/jagdeeppani.github.io/blob/master/iiscPic1.jpg "IISC PICTURE 1")
 
 
 ## [](#header-1)Current
